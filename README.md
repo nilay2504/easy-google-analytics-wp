@@ -1,12 +1,19 @@
 # easy-google-analytics-wp
 
 === Plugin Name ===
+
 Contributors: gr8nilay
+
 Tags: easy google analytic, google analytics, analytics, easy google analytic wp, easy, simple analytics
+
 Requires at least: 3.0.1
+
 Tested up to: 5.2.1
+
 Stable tag: 3.0.1
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Add Google Analytic Tracking ID easily in just two steps into your site. 
