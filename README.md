@@ -28,10 +28,6 @@ This plugin provides you to add google analytics from back end to the site. You 
 2. Activate the plugin through the 'Plugins' menu in WordPress
 1. On activation it will hide all the theme updates
 
-== Frequently Asked Questions ==
-
-If you have any question do let me know on gr8nilay@gmail.com
-
 == Screenshots ==
 
 1. You can see that you only need to add Traking ID or script in back end
