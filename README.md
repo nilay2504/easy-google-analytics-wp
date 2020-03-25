@@ -2,7 +2,6 @@
 
 === Plugin Name ===
 Contributors: gr8nilay
-Donate link: http://nilaypatel.info/donations/?plugin=easy-google-analytics-wp
 Tags: easy google analytic, google analytics, analytics, easy google analytic wp, easy, simple analytics
 Requires at least: 3.0.1
 Tested up to: 5.2.1
